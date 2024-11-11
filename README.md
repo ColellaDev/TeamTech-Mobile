@@ -1,4 +1,4 @@
-# Event List
+# Team Tech
 
 Este aplicativo é um gerenciador de equipes que permite criar turmas, adicionar participantes e organizá-los em times de forma prática e eficiente.
 
